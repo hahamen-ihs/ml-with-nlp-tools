@@ -11,8 +11,8 @@ NERGRIT is machine learning based NLP Tools used for Indonesian Named Entity Rec
   - Sentiment Analysis: ~ 75%
 
 ## Download
-Open this link => https://ner.grit.id/index.php/front/about
-and click "GET NERGRIT CORPUS"
+Open this link => https://drive.google.com/open?id=1vTAJVpjgdxwLAqPHjS1cSyObgYPSUBfw
+
 ## How to Use
 Better use Python 3 and use your GPU instead of CPU for training, and run the following on your OS:
 ```bash
@@ -98,9 +98,10 @@ If You demand the model to be optimized more, you can create `glove` from wikipe
   - Antonius Rony Hidajat
   - Nur Afdal
   - Listia Apritami
+  - Muhammad Ihsan (JADI DUIT INDONESIA)
 
   `Github Issue Reporter`:
   - Yoga Yudistira <yudistirayoga97@gmail.com>
 
   
-Try NERGRIT at: https://ner.grit.id and visit us at https://grit.id/
+Try NERGRIT at: https://ner.grit.id and visit us at https://grit.id/ and https://servispc.me
