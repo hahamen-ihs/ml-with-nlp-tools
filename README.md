@@ -1,4 +1,4 @@
-# NERGRIT CORPUS
+# CORPUS
 
 ## MUST READ
 All NERGRIT contributors and LICENSE must be included if You use this corpus. This corpus can be used both for learning or commercially.
